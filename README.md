@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nenthomjodely
-- 👀 [Jodely.com]([url](https://jodely.com/)) của chúng tôi cung cấp các loại nến thơm và các dụng cụ bảo vệ, gia tăng tuổi thọ cho nến thơm
+- 👀 [Jodely.com]([https://jodely.com/](https://jodely.com/)) của chúng tôi cung cấp các loại nến thơm và các dụng cụ bảo vệ, gia tăng tuổi thọ cho nến thơm
 - 🌱 Jodely còn là nơi chia sẻ những thông tin hữu ích cho nến thơm, rất mong sẽ nhận thêm những đóng góp từ mọi người
 
 <!---
